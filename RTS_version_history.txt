@@ -1,0 +1,13 @@
+RTS version history
+
+v 0.1.0 - Initial handover of code from Dr. Dan to students
+
+Basic RTS working - can select units by clicking, have them move
+and attack.  Crystals and mining is set up.  Status bar at bottom
+of screen has build buttons that work so that the command center
+can build miners, etc.  Network code is not yet functional, so
+games are solo against a dummy AI that does nothing, at least for
+the instant.  Units in place: Miner, soldier, tank.  Buildings in
+place: command center, laser turret, scaffolding.  Objects in
+place: crystal, explosion.
+
